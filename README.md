@@ -8,7 +8,7 @@ Style guides are created by UI/UX designers using softwares like figma, adobeXD,
 - Create web page of style guide to be used by other teams
 - Version control
 
-## USeCase-1: Manage style guide
+## UseCase-1: Manage style guide
 
 The idea is to give a user interface to the UI/UX designers to 
 - Add/delete html elements to the style guide
